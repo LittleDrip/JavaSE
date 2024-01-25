@@ -11,6 +11,6 @@ public class List_ {
         List<Integer> list2=new ArrayList<>(Arrays.asList(a));//这样a就能插入删除了
       /*  Collections.reverse(list);
         System.out.println(list);*/
-        System.out.println(list1);
+        System.out.println(list1);//打印1
     }
 }
